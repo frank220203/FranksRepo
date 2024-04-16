@@ -2,6 +2,9 @@ def solution(
     friends:list,
     gifts:list
 ) -> int:
+    """ 프로그래머스 코딩 테스트 Lv 1. 가장 많이 받은 선물
+    
+    """
     print('\n\n\n  메소드 시작')
     answer = 0
     friends_encode = {}
